@@ -42,15 +42,6 @@ npm install
 npm run dev
 ```
 
-## 👩‍💻 Team
-
-| Name | Task |
-|------|------|
-| Anwesha | Student Profile & Settings |
-| Melwin | ... |
-| Abhishek | ... |
-| Bhanu | ... |
-
 ## 📄 Pages
 
 - `/` — Home
